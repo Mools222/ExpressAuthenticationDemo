@@ -1,0 +1,18 @@
+[
+  {
+    "login": "admin",
+    "password": ""
+  },
+  {
+    "login": "Mickey",
+    "password": "Mouse"
+  },
+  {
+    "login": "test",
+    "password": "123"
+  },
+  {
+    "login": "hello",
+    "password": "world"
+  }
+]
